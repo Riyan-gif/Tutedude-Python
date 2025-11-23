@@ -1,0 +1,24 @@
+>> For the first time need to configure GitHub in our system
+git config --global user.name "   "
+git config --global user.email "   "
+
+----> Optional>>> git config  --global color.ui auto
+
+Mandatory  Commands:
+>> git init
+>> git remote add origin " URL"
+>> After this open new Terminal
+>> git pull origin main
+
+>> To push file to github
+>> git status
+>> git add  ( File name or to push all file enter ( '  . ' ))
+>> git status
+>> git commit -m " Commit Message" or any commit message " Initail Commit"
+>> git push --set-upstream origin master  
+
+
+>> separate branch: etc.......
+>> git checkout -b " branch nam
+
+
